@@ -81,5 +81,5 @@ Por ahora elegimos limitar el tamaño de entrada porque sino se tenia que achica
 
 Identificación de pendientes y optimizaciones:
 
-Falta ajustar calibrar porque todavía tiene poca precisión y necesitamos estudiar y empezar a modificar el código en detalle para ir optimizándolo.
+Falta ajustar algunas cosas y calibrar porque todavía tiene poca precisión, necesitamos empezar a modificar el código para ir optimizándolo.
 
